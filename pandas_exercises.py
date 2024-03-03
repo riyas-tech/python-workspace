@@ -58,3 +58,4 @@ print(df_group_by.sum('sales'))
 
 print(df_group_by.sum('sales').loc['FB'])
 print(df_group_by.count())
+
